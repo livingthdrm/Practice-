@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1531463629 source:e:\code\c++ projects\random\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<vector>
+

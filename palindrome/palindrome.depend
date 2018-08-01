@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1532075304 source:e:\code\c++ projects\palindrome\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<algorithm>
+
